@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luv-Malik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Luv-Malik/Leet-Code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
@@ -183,4 +185,20 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Luv-Malik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Luv-Malik/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
