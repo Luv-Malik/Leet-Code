@@ -171,5 +171,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Luv-Malik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Luv-Malik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
