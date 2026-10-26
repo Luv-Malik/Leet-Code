@@ -10,6 +10,7 @@
 | [0856-score-of-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Luv-Malik/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0856-score-of-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Luv-Malik/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0856-score-of-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Luv-Malik/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Array
 |  |
@@ -72,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
