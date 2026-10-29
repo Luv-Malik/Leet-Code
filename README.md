@@ -14,6 +14,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Luv-Malik/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Luv-Malik/Leet-Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@
 | [0029-divide-two-integers](https://github.com/Luv-Malik/Leet-Code/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Luv-Malik/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -124,19 +127,23 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,6 +176,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Luv-Malik/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
