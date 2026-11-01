@@ -42,6 +42,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luv-Malik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Luv-Malik/Leet-Code/tree/master/0027-remove-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Luv-Malik/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Luv-Malik/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
