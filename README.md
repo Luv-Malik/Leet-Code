@@ -45,6 +45,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Luv-Malik/Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -190,6 +193,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luv-Malik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Luv-Malik/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
