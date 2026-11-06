@@ -50,6 +50,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -104,6 +105,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
