@@ -100,6 +100,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Luv-Malik/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Luv-Malik/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Luv-Malik/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
 |  |
 | ------- |
