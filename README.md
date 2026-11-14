@@ -57,6 +57,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Luv-Malik/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
