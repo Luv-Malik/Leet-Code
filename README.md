@@ -47,6 +47,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Luv-Malik/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Luv-Malik/Leet-Code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/1882-process-tasks-using-servers) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -140,6 +142,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Luv-Malik/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -264,5 +267,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
