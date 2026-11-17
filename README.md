@@ -14,6 +14,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Luv-Malik/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Luv-Malik/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Matrix
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Luv-Malik/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Luv-Malik/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
