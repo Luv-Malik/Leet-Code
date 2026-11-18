@@ -15,6 +15,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Luv-Malik/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Luv-Malik/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Luv-Malik/Leet-Code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
