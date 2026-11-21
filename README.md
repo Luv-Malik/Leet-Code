@@ -55,6 +55,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Luv-Malik/Leet-Code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Luv-Malik/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -121,6 +122,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Luv-Malik/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Luv-Malik/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Luv-Malik/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Luv-Malik/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
@@ -135,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -232,6 +235,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Luv-Malik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Luv-Malik/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Luv-Malik/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -284,4 +288,8 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
