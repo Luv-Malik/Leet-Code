@@ -16,6 +16,7 @@
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Luv-Malik/Leet-Code/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Luv-Malik/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Luv-Malik/Leet-Code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Luv-Malik/Leet-Code/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -137,6 +139,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Luv-Malik/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Luv-Malik/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Luv-Malik/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -210,6 +214,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Luv-Malik/Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Luv-Malik/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
