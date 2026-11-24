@@ -67,6 +67,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Luv-Malik/Leet-Code/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Luv-Malik/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Luv-Malik/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Luv-Malik/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Luv-Malik/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -161,6 +162,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Luv-Malik/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Luv-Malik/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Luv-Malik/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Luv-Malik/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Luv-Malik/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Luv-Malik/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -264,6 +266,7 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Luv-Malik/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Luv-Malik/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Luv-Malik/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Luv-Malik/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
@@ -295,6 +298,7 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Luv-Malik/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -303,4 +307,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Luv-Malik/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Luv-Malik/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
